@@ -1,9 +1,18 @@
-### Hi there 👋
+### Hello world ☁ I'm Gabriel Spadafora
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Gabriel-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-</div>
+###### - I'm currently developing projects in C and C++ <br/> 
+
+  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> <img align="center" alt="Gabriel-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+
+###### - I'm learning Python and looking forward projects in the Information Security Area <br/>
+
+<img align="center" alt="Gabriel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img align="center" alt="Gabriel-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
+
+
+###### - Passionate about solving problems and finding efficient solutions
+
+##
+
 
 ##
 
