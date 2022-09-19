@@ -1,4 +1,4 @@
-### Hello world ☁ I'm Gabriel Spadafora
+## Hello world ☁ I'm Gabriel Spadafora
 
 ###### - I'm currently developing projects in C and C++ <br/> 
 
@@ -10,8 +10,6 @@
 
 
 ###### - Passionate about solving problems and finding efficient solutions
-
-##
 
 
 ##
