@@ -4,9 +4,9 @@
 
   <img align="center" alt="Gabriel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> <img align="center" alt="Gabriel-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 
-###### - I'm learning Python and looking forward projects in the Information Security Area <br/>
+###### - I'm studying Linux and looking forward projects in Embedded Systems <br/>
 
-<img align="center" alt="Gabriel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img align="center" alt="Gabriel-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
+<img align="center" alt="Gabriel-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
 
 
 ###### - Passionate about solving problems and finding efficient solutions
