@@ -1,13 +1,8 @@
 ## Hello world ☁ I'm Gabriel Spadafora
 
-###### - I'm currently developing projects in C and C++ <br/> 
+###### - I'm currently developing projects in C++ and Python <br/> 
 
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> <img align="center" alt="Gabriel-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-
-###### - I'm studying Linux and looking forward projects in Embedded Systems <br/>
-
-<img align="center" alt="Gabriel-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
-
+  <img align="center" alt="Gabriel-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg">
 
 ###### - Passionate about solving problems and finding efficient solutions
 
