@@ -1,10 +1,30 @@
-## Hello world ☁ I'm Gabriel Spadafora
+## Hello World ☁ I'm Gabriel 
 
-###### - I'm currently developing projects in C++ and Python <br/> 
+I'm an AI Enthusiast and a Competitive Programmer from Brazil
 
-  <img align="center" alt="Gabriel-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg">
+**About me**
 
-###### - Passionate about solving problems and finding efficient solutions
+- 💼 Undergraduate Research Scholar in Artificial Intelligence
+
+- 📈 Passionate about Competitive Programming
+
+- 📚 Embedded Systems Enthusiast
+
+
+<img align="center" alt="Gabriel-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"><img align="center" alt="Gabriel-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"><img align="center" alt="Gabriel-Numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"> <img align="center" alt="Gabriel-OpenCV" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg"> <img align="center" alt="Gabriel-Matplotlib" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg"> <img align="center" alt="Gabriel-Neovim" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg">
+
+| ![](https://github-readme-stats.vercel.app/api?username=gabrielspdf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielspdf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+<a href="https://github.com/GabrielSpdf/Memory-Box">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielspdf&repo=Memory-Box&theme=tokyonight" />
+</a>
+<a href="https://github.com/GabrielSpdf/Central-de-Seguranca-Residencial">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielspdf&repo=Central-de-Seguranca-Residencial&theme=tokyonight" />
+</a>
+
 
 
 ##
