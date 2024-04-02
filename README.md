@@ -21,8 +21,8 @@ I'm an AI Enthusiast and a Competitive Programmer from Brazil
 <a href="https://github.com/GabrielSpdf/Memory-Box">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielspdf&repo=Memory-Box&theme=tokyonight" />
 </a>
-<a href="https://github.com/GabrielSpdf/Central-de-Seguranca-Residencial">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielspdf&repo=Central-de-Seguranca-Residencial&theme=tokyonight" />
+<a href="https://github.com/GabrielSpdf/Contest-Problems">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielspdf&repo=Contest-Problems&theme=tokyonight" />
 </a>
 
 
