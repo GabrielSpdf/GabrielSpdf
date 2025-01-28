@@ -8,8 +8,6 @@ I'm an AI Enthusiast and a Competitive Programmer from Brazil
 
 - 📈 Passionate about Competitive Programming
 
-- 📚 Embedded Systems Enthusiast
-
 
 <img align="center" alt="Gabriel-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"><img align="center" alt="Gabriel-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"><img align="center" alt="Gabriel-Numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"> <img align="center" alt="Gabriel-OpenCV" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg"> <img align="center" alt="Gabriel-Matplotlib" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg"> <img align="center" alt="Gabriel-Neovim" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg">
 
