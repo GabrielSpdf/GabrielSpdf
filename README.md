@@ -16,8 +16,8 @@ I'm an AI Enthusiast and a Competitive Programmer from Brazil
 
 #### Top Repositories
 
-<a href="https://github.com/GabrielSpdf/Memory-Box">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielspdf&repo=Memory-Box&theme=tokyonight" />
+<a href="https://github.com/GabrielSpdf/NeoBell">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielspdf&repo=NeoBell&theme=tokyonight" />
 </a>
 <a href="https://github.com/GabrielSpdf/Contest-Problems">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielspdf&repo=Contest-Problems&theme=tokyonight" />
