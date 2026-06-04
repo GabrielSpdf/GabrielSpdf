@@ -2,7 +2,7 @@
 
 **About me**
 
-- Computer Enginnering Student at UTFPR-CT
+- Computer Engineering Student at UTFPR-CT
 
 - Embedded Software Internet at Volvo Group
 
