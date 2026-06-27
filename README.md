@@ -4,7 +4,7 @@
 
 - Computer Engineering Student at UTFPR-CT
 
-- Embedded Software Internet at Volvo Group
+- Embedded Software Intern at Volvo Group
 
 - Researcher in Computer Vision and Image Processing
 
